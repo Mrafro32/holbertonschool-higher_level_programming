@@ -1,1 +1,1 @@
-Scripts for SQL Introduction project.
+Scripts for SQL introduction project
