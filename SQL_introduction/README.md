@@ -1,1 +1,1 @@
-Scripts for SQL introduction: databases and tables management.
+Scripts for SQL introduction project
